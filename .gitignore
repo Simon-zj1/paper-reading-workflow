@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+
+# Local parser/model outputs
+papers/library/*/extracted/cache/
+papers/library/*/extracted/models/
+
+# Temporary renders
+*.tmp
+~$*.pptx
+~$*.docx
